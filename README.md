@@ -1,4 +1,4 @@
-# stock-market-predication
+# stock-market-prediction
 Stock Trend Prediction Machine Learning Model in Python using the LSTM(Long Short-Term Memory)
 
 The **Long Short-Term Memory (LSTM)** is a type of recurrent neural network (RNN) that excels at capturing long-term dependencies in sequential data. Unlike traditional RNNs, LSTM cells are designed to store and control information over longer time intervals, making them particularly effective for tasks involving sequential data where order and context matter significantly.
